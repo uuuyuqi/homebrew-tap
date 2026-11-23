@@ -24,7 +24,7 @@ cask "tootoo" do
   ]
 
   caveats <<~EOS
-    TooToo has been installed to /Applications/TooToo.app, and the CLI  is linked into PATH.
+    TooToo has been installed to /Applications/TooToo.app, and the CLI `tootoo` is linked into PATH.
     Launch TooToo from Applications or Spotlight to show the bunny icon in your menu bar.
   EOS
 end
