@@ -1,6 +1,6 @@
 cask "tootoo" do
-  version "0.2.15"
-  sha256 "2f4b8bcc6aff0dec435f8ea6751f7d8ece2a213ef26b83f290ca5d9c4da764b7"
+  version "0.2.16"
+  sha256 "342de172338a14b2038c4b703c1676d0c3854494093bb8fdadda1cf8b76fd5b0"
 
   url "https://github.com/uuuyuqi/tootoo/releases/download/v#{version}/TooToo-v#{version}-macos-universal.zip"
   name "TooToo"
